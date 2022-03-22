@@ -11,7 +11,7 @@ Simple book finder app using Vanilla Javascript and [Google Books API](https://d
 ## Installation
 
 ```
- git clone https://github.com/martindocs/Book-Finder.git
+ git clone https://github.com/martindocs/book-finder.git
 
  # cd into the project directory
 
