@@ -248,3 +248,5 @@ input#book-search{
     padding: 15px 0 0;
     scrollbar-color: rgb(235, 235, 235) transparent; /* only works in FF */
 }
+.attribution { color: rgb(107, 107, 107); font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
