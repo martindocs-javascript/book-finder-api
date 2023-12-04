@@ -32,7 +32,7 @@ function createBookList(books){
             'pub': items.volumeInfo.hasOwnProperty('publishedDate') ? items.volumeInfo.publishedDate : '-',
             'desc': items.volumeInfo.hasOwnProperty('description') ? items.volumeInfo.description : 'no description available',
             'isbn10': items.volumeInfo.hasOwnProperty('industryIdentifiers') ? items.volumeInfo.industryIdentifiers[0].identifier : '-',
-            'thumbnail': items.volumeInfo.hasOwnProperty('imageLinks') ? items.volumeInfo.imageLinks.smallThumbnail : 'img/no-image.png',
+            'thumbnail': items.volumeInfo.hasOwnProperty('imageLinks') ? items.volumeInfo.imageLinks.smallThumbnail : './assets/img/no-image.png',
             'ratings': items.volumeInfo.hasOwnProperty('averageRating') ? items.volumeInfo.averageRating : '-',
         }    
     });
