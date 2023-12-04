@@ -22,9 +22,9 @@ The book finder app using Vanilla Javascript and [Google Books API](https://deve
 
 ## Screenshot
 <p style="text-align:center;">
-    <img src="img/book-search-src1.png" alt="dark and light theme" />
-    <img src="img/book-search-src2.png" alt="books result" />
-    <img src="img/book-search-src3.png" alt="book details" />
+    <img src="./assets/img/book-search-src1.png" alt="dark and light theme" />
+    <img src="./assets/img/book-search-src2.png" alt="books result" />
+    <img src="./assets/img/book-search-src3.png" alt="book details" />
 </p>
 
 ## Contributing
